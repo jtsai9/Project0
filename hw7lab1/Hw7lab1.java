@@ -12,7 +12,7 @@ public class Hw7lab1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //
         Scanner scnr = new Scanner(System.in);
 
         Course myCourse = new Course();
